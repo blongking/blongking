@@ -35,6 +35,6 @@ Most of my code lives in private repos tied to live businesses. The contribution
 
 ## Businesses I operate
 
-- **GulfPhysio**: a physiotherapy and clinic supply store in the UAE
-- **HealthSpark PR**
-- **PowerYourCurls**
+- **[GulfPhysio](https://gulfphysio.com)**: a physiotherapy and clinic supply store in the UAE
+- **[HealthSpark PR](https://healthsparkpr.com)**
+- **[PowerYourCurls](https://poweryourcurls.com)**
