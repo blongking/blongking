@@ -36,5 +36,5 @@ Most of my code lives in private repos tied to live businesses. The contribution
 ## Businesses I operate
 
 - **[GulfPhysio](https://gulfphysio.com)**: a physiotherapy and clinic supply store in the UAE
-- **[HealthSpark PR](https://healthsparkpr.com)**
-- **[PowerYourCurls](https://poweryourcurls.com)**
+- **[HealthSpark PR](https://healthsparkpr.com)**: a Toronto PR agency for health, wellness and beauty. It gets clinicians quoted as experts and earns editorial coverage for consumer health brands.
+- **[PowerYourCurls](https://poweryourcurls.com)**: a curly hair store and resource, with products from multiple brands plus care guides.
